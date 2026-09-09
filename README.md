@@ -24,6 +24,8 @@
 
 ---
 
+
+
 ## 📌 Overview
 
 **Net Spoofer** is a lightweight Python script that automatically changes your **MAC address** and **local IP address** at regular intervals. By rotating these identifiers, it makes you harder to track on a local network (Wi‑Fi or Ethernet). The script works on Linux systems, disables DHCP to prevent automatic IP renewal, and restores original settings when you stop it.
